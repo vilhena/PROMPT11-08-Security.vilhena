@@ -1,0 +1,10 @@
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\www.prompt11.local\www.prompt11.local\bin\www.prompt11.local.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\www.prompt11.local\www.prompt11.local\bin\www.prompt11.local.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\www.prompt11.local\www.prompt11.local\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\www.prompt11.local\www.prompt11.local\obj\Debug\www.prompt11.local.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\www.prompt11.local\www.prompt11.local\obj\Debug\www.prompt11.local.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Sessao2\www.prompt11.local\www.prompt11.local\bin\www.prompt11.local.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Sessao2\www.prompt11.local\www.prompt11.local\bin\www.prompt11.local.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Sessao2\www.prompt11.local\www.prompt11.local\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Sessao2\www.prompt11.local\www.prompt11.local\obj\Debug\www.prompt11.local.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Sessao2\www.prompt11.local\www.prompt11.local\obj\Debug\www.prompt11.local.pdb

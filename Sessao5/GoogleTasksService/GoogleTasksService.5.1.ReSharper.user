@@ -1,0 +1,216 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Controllers/f:HomeController.cs" caret="448" fromTop="15" />
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Scripts/f:jquery-1.5.1.js" caret="22103" fromTop="17" />
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Scripts/f:GoogleOAuth2.js" caret="397" fromTop="9" />
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Controllers/f:GoogleController.cs" caret="2196" fromTop="22" />
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Views/d:Google/f:TasksImplicitResult.cshtml" caret="0" fromTop="0" />
+      <File id="A243A93E-282F-444E-8AE6-AF84CDC2A57C/f:Program.cs" caret="1239" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Controllers/f:GoogleController.cs" caret="3256" fromTop="17" />
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Controllers/f:GoogleController.cs" caret="3456" fromTop="19" />
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Scripts/f:GoogleOAuth2.js" caret="1683" fromTop="8" />
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Controllers/f:GoogleController.cs" caret="3151" fromTop="31" />
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Controllers/f:GoogleController.cs" caret="2962" fromTop="26" />
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Scripts/f:GoogleOAuth2.js" caret="1691" fromTop="16" />
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Scripts/f:GoogleOAuth2.js" caret="1706" fromTop="26" />
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Scripts/f:GoogleOAuth2.js" caret="1681" fromTop="18" />
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Scripts/f:GoogleOAuth2.js" caret="1681" fromTop="23" />
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Scripts/f:GoogleOAuth2.js" caret="1710" fromTop="16" />
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Scripts/f:GoogleOAuth2.js" caret="1681" fromTop="7" />
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Controllers/f:GoogleController.cs" caret="2645" fromTop="3" />
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Controllers/f:GoogleController.cs" caret="3177" fromTop="15" />
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Views/d:Google/f:TasksImplicitResult.cshtml" caret="301" fromTop="10" />
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Scripts/f:GoogleOAuth2.js" caret="645" fromTop="19" />
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Scripts/f:GoogleOAuth2.js" caret="521" fromTop="14" />
+      <File id="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F/d:Scripts/f:GoogleOAuth2.js" caret="154" fromTop="3" />
+      <File id="A243A93E-282F-444E-8AE6-AF84CDC2A57C/f:Program.cs" caret="1723" fromTop="15" />
+      <File id="A243A93E-282F-444E-8AE6-AF84CDC2A57C/f:Program.cs" caret="1144" fromTop="12" />
+      <File id="A243A93E-282F-444E-8AE6-AF84CDC2A57C/f:Program.cs" caret="1604" fromTop="20" />
+      <File id="A243A93E-282F-444E-8AE6-AF84CDC2A57C/f:Program.cs" caret="2005" fromTop="12" />
+      <File id="A243A93E-282F-444E-8AE6-AF84CDC2A57C/f:Program.cs" caret="2232" fromTop="18" />
+      <File id="A243A93E-282F-444E-8AE6-AF84CDC2A57C/f:Program.cs" caret="2549" fromTop="26" />
+      <File id="A243A93E-282F-444E-8AE6-AF84CDC2A57C/f:Program.cs" caret="273" fromTop="13" />
+      <File id="A243A93E-282F-444E-8AE6-AF84CDC2A57C/f:Program.cs" caret="549" fromTop="8" />
+      <File id="A243A93E-282F-444E-8AE6-AF84CDC2A57C/f:Program.cs" caret="2479" fromTop="18" />
+      <File id="A243A93E-282F-444E-8AE6-AF84CDC2A57C/f:Program.cs" caret="1535" fromTop="23" />
+      <File id="A243A93E-282F-444E-8AE6-AF84CDC2A57C/f:Program.cs" caret="1020" fromTop="15" />
+      <File id="A243A93E-282F-444E-8AE6-AF84CDC2A57C/f:Program.cs" caret="1189" fromTop="7" />
+      <File id="A243A93E-282F-444E-8AE6-AF84CDC2A57C/f:Program.cs" caret="1317" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="3" />
+      <Item value="Action`0" priority="0" />
+      <Item value="HttpRequest`0" priority="1" />
+      <Item value="new" priority="14" />
+      <Item value="HttpRequest" priority="0" />
+      <Item value="httpWebRequest" priority="0" />
+      <Item value="HttpWebRequest" priority="0" />
+      <Item value="WebRequest`0" priority="2" />
+      <Item value="Response" priority="0" />
+      <Item value="base" priority="0" />
+      <Item value="var" priority="11" />
+      <Item value="string" priority="10" />
+      <Item value="url" priority="4" />
+      <Item value="ActionResult`0" priority="1" />
+      <Item value="return" priority="1" />
+      <Item value="View`0" priority="1" />
+      <Item value="request" priority="1" />
+      <Item value="HttpClient" priority="0" />
+      <Item value="client" priority="7" />
+      <Item value="HttpContent`0" priority="0" />
+      <Item value="content" priority="2" />
+      <Item value="FormUrlEncodedContent`0" priority="0" />
+      <Item value="FormUrlEncodedContent" priority="0" />
+      <Item value="null" priority="2" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="dic" priority="5" />
+      <Item value="code" priority="3" />
+      <Item value="response" priority="1" />
+      <Item value="JsonResult`0" priority="1" />
+      <Item value="result" priority="3" />
+      <Item value="JsonResult" priority="0" />
+      <Item value="Json`0" priority="2" />
+      <Item value="x" priority="1" />
+      <Item value="body" priority="2" />
+      <Item value="prop" priority="3" />
+      <Item value="private" priority="0" />
+      <Item value="class" priority="0" />
+      <Item value="int" priority="0" />
+      <Item value="jsonMaster" priority="1" />
+      <Item value="Token`0" priority="0" />
+      <Item value="token" priority="7" />
+      <Item value="tasks" priority="1" />
+      <Item value="dataTask" priority="0" />
+      <Item value="googleReq" priority="2" />
+      <Item value="AuthenticationHeaderValue" priority="1" />
+      <Item value="JsonValue" priority="0" />
+      <Item value="JsonValue`0" priority="1" />
+      <Item value="tasklist" priority="2" />
+      <Item value="void" priority="0" />
+      <Item value="Process" priority="0" />
+      <Item value="p" priority="10" />
+      <Item value="Process`0" priority="3" />
+      <Item value="ProcessStartInfo" priority="1" />
+      <Item value="process" priority="2" />
+      <Item value="try" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="Console`0" priority="2" />
+      <Item value="key" priority="0" />
+      <Item value="Where`1" priority="1" />
+      <Item value="OrderBy`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.HttpWebRequest">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.Controller">
+      <Item value="Redirect`0" priority="0" />
+      <Item value="RedirectToRoute`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.WebRequest">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebRequest">
+      <Item value="Method" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Http.HttpClient">
+      <Item value="PostAsync`0" priority="0" />
+      <Item value="GetAsync`0" priority="2" />
+      <Item value="DefaultRequestHeaders" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.Task`1">
+      <Item value="Result" priority="10" />
+      <Item value="ContinueWith`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Script.Serialization.JavaScriptSerializer">
+      <Item value="DeserializeObject`0" priority="1" />
+      <Item value="Deserialize`0" priority="0" />
+      <Item value="Serialize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Http.HttpResponseMessage">
+      <Item value="Content" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Http.HttpContent">
+      <Item value="ReadAsStringAsync`0" priority="4" />
+      <Item value="ReadAsAsync`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GoogleTasksService.Controllers.GoogleController+Token">
+      <Item value="access_token" priority="3" />
+      <Item value="token_type" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Http.Headers.HttpRequestHeaders">
+      <Item value="Authorization" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Http.Headers.AuthenticationHeaderValue">
+      <Item value="Scheme" priority="0" />
+      <Item value="Parameter" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Json.JsonValue">
+      <Item value="Load`0" priority="0" />
+      <Item value="Parse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Json.JsonValue">
+      <Item value="AsDynamic`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.Process">
+      <Item value="Start`0" priority="3" />
+      <Item value="StartInfo" priority="1" />
+      <Item value="MainWindowTitle" priority="3" />
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Process">
+      <Item value="Start`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="ReadLine`0" priority="1" />
+      <Item value="WriteLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains`0" priority="0" />
+      <Item value="Substring`0" priority="0" />
+      <Item value="IndexOf`0" priority="0" />
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Select`2" priority="0" />
+      <Item value="FirstOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConsoleGoogleApplication.Program+Token">
+      <Item value="access_token" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

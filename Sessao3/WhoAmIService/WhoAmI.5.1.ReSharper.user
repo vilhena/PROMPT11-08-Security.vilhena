@@ -1,0 +1,246 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="49591E4A-3B69-4EDD-A33D-CF8F13054401/f:WhoAmI.svc" caret="0" fromTop="0" />
+      <File id="49591E4A-3B69-4EDD-A33D-CF8F13054401/f:Web.config" caret="1442" fromTop="13" />
+      <File id="516BE8BC-3495-49BA-962B-DF0011DDE738/d:Service References/d:WhoAmIWS/f:Reference.cs" caret="2155" fromTop="17" />
+      <File id="49591E4A-3B69-4EDD-A33D-CF8F13054401/f:IWhoAmI.cs" caret="328" fromTop="12" />
+      <File id="49591E4A-3B69-4EDD-A33D-CF8F13054401/f:WhoAmI.svc.cs" caret="628" fromTop="18" />
+      <File id="516BE8BC-3495-49BA-962B-DF0011DDE738/f:app.config" caret="19334" fromTop="0" />
+      <File id="516BE8BC-3495-49BA-962B-DF0011DDE738/f:Program.cs" caret="304" fromTop="12" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/f:Global.asax.cs" caret="586" fromTop="13" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/f:Web.config" caret="1480" fromTop="31" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Views/f:Web.config" caret="1327" fromTop="23" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:HomeController.cs" caret="350" fromTop="16" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:AccountController.cs" caret="478" fromTop="13" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Models/f:FederationModels.cs" caret="240" fromTop="10" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Views/d:Federation/f:Issue.cshtml" caret="517" fromTop="14" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="1674" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="49591E4A-3B69-4EDD-A33D-CF8F13054401/f:WhoAmI.svc.cs" caret="628" fromTop="18" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/f:Web.config" caret="3219" fromTop="9" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="3661" fromTop="17" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="5539" fromTop="21" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="3786" fromTop="14" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="3412" fromTop="4" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="4218" fromTop="13" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="665" fromTop="2" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="3313" fromTop="22" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/f:Web.config" caret="1480" fromTop="10" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="4174" fromTop="18" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="3128" fromTop="16" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="5490" fromTop="26" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="5490" fromTop="30" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="5490" fromTop="19" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="2705" fromTop="14" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="2705" fromTop="22" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="2169" fromTop="19" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="2071" fromTop="10" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="2691" fromTop="20" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="2691" fromTop="10" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="2692" fromTop="20" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Models/f:FederationModels.cs" caret="226" fromTop="10" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="2081" fromTop="23" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="799" fromTop="5" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Views/d:Federation/f:Issue.cshtml" caret="517" fromTop="14" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="2607" fromTop="13" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="1034" fromTop="12" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="1764" fromTop="21" />
+      <File id="B5028A99-11FF-478D-8CEE-7149D47C5609/d:Controllers/f:FederationController.cs" caret="1988" fromTop="26" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="return" priority="3" />
+      <Item value="var" priority="2" />
+      <Item value="new" priority="11" />
+      <Item value="WhoAmIWS" priority="0" />
+      <Item value="WhoAmIClient`0" priority="1" />
+      <Item value="System" priority="0" />
+      <Item value="Console`0" priority="1" />
+      <Item value="result" priority="0" />
+      <Item value="claims" priority="0" />
+      <Item value="char" priority="0" />
+      <Item value="c" priority="1" />
+      <Item value="foreach" priority="2" />
+      <Item value="sb" priority="3" />
+      <Item value="claim" priority="9" />
+      <Item value="void" priority="1" />
+      <Item value="simpleSecurityTokenServiceConfiguration" priority="0" />
+      <Item value="message" priority="1" />
+      <Item value="SignInResponseMessage`0" priority="1" />
+      <Item value="resp" priority="5" />
+      <Item value="ctor" priority="2" />
+      <Item value="base" priority="1" />
+      <Item value="this" priority="3" />
+      <Item value="DefaultTokenType" priority="0" />
+      <Item value="SigningCredentials" priority="0" />
+      <Item value="X509SigningCredentials`0" priority="0" />
+      <Item value="X509Certificate2" priority="0" />
+      <Item value="X509Store`0" priority="2" />
+      <Item value="StoreLocation`0" priority="0" />
+      <Item value="StoreName`0" priority="0" />
+      <Item value="store" priority="1" />
+      <Item value="OpenFlags`0" priority="0" />
+      <Item value="X509Certificate2`0" priority="0" />
+      <Item value="certificate" priority="0" />
+      <Item value="scope" priority="1" />
+      <Item value="false" priority="0" />
+      <Item value="Authorize" priority="0" />
+      <Item value="Claim`0" priority="2" />
+      <Item value="Claim" priority="0" />
+      <Item value="ClaimTypes`0" priority="0" />
+      <Item value="callerIdentity" priority="3" />
+      <Item value="principal" priority="0" />
+      <Item value="outputIdentity" priority="0" />
+      <Item value="newClaim" priority="0" />
+      <Item value="public" priority="2" />
+      <Item value="ActionResult`0" priority="3" />
+      <Item value="View`0" priority="0" />
+      <Item value="model" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="accepted" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="IdPClaims`0" priority="0" />
+      <Item value="idPClaimses" priority="3" />
+      <Item value="List&lt;IdPClaims&gt;" priority="0" />
+      <Item value="IdPClaims" priority="1" />
+      <Item value="prop" priority="1" />
+      <Item value="String`0" priority="1" />
+      <Item value="Name" priority="1" />
+      <Item value="Value" priority="1" />
+      <Item value="Microsoft" priority="0" />
+      <Item value="IdentityModel" priority="0" />
+      <Item value="TextWriter`0" priority="0" />
+      <Item value="StringWriter`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="CurrentContext" priority="0" />
+      <Item value="CurrentPrincipal" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Principal.IPrincipal">
+      <Item value="Identity" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Principal.IIdentity">
+      <Item value="Name" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WhoAmIClient.WhoAmIWS.WhoAmIClient">
+      <Item value="Get`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="0" />
+      <Item value="ReadKey`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.IdentityModel.Claims.ClaimCollection">
+      <Item value="ToString`0" priority="0" />
+      <Item value="Add`0" priority="0" />
+      <Item value="All`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.IdentityModel.Claims.Claim">
+      <Item value="Value" priority="3" />
+      <Item value="ClaimType" priority="3" />
+      <Item value="ValueType" priority="0" />
+      <Item value="Issuer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="0" />
+      <Item value="AppendFormat`0" priority="0" />
+      <Item value="ToString`0" priority="2" />
+      <Item value="AppendLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IdPWhoAmI.Controllers.SimpleSecurityTokenServiceConfiguration">
+      <Item value="DefaultTokenType" priority="0" />
+      <Item value="SigningCredentials" priority="0" />
+      <Item value="TokenIssuerName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.IdentityModel.Configuration.SecurityTokenServiceConfiguration">
+      <Item value="SigningCredentials" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Security.Cryptography.X509Certificates.StoreLocation">
+      <Item value="LocalMachine" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Security.Cryptography.X509Certificates.StoreName">
+      <Item value="My" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Cryptography.X509Certificates.X509Store">
+      <Item value="Open`0" priority="0" />
+      <Item value="Certificates" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Security.Cryptography.X509Certificates.OpenFlags">
+      <Item value="TryParse`1" priority="0" />
+      <Item value="ReadOnly" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Cryptography.X509Certificates.X509Certificate2Collection">
+      <Item value="AsQueryable`0" priority="0" />
+      <Item value="OfType`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Where`1" priority="0" />
+      <Item value="FirstOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Cryptography.X509Certificates.X509Certificate2">
+      <Item value="Subject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.IdentityModel.SecurityTokenService.Scope">
+      <Item value="TokenEncryptionRequired" priority="0" />
+      <Item value="ReplyToAddress" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.IdentityModel.Claims.ClaimTypes">
+      <Item value="Role" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.IdentityModel.Claims.IClaimsPrincipal">
+      <Item value="Identity" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.IdentityModel.Claims.IClaimsIdentity">
+      <Item value="Claims" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Security.FormsIdentity">
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="GetProperties`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.IdentityModel.Protocols.WSFederation.SignInResponseMessage">
+      <Item value="Write`0" priority="1" />
+      <Item value="WriteFormPost`0" priority="0" />
+      <Item value="Parameters" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.PropertyInfo">
+      <Item value="MemberType" priority="0" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="0" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,6 @@
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmIService\WhoAmIClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmIService\WhoAmIClient\bin\Debug\WhoAmIClient.exe.config
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmIService\WhoAmIClient\bin\Debug\WhoAmIClient.exe
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmIService\WhoAmIClient\bin\Debug\WhoAmIClient.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmIService\WhoAmIClient\obj\x86\Debug\WhoAmIClient.exe
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmIService\WhoAmIClient\obj\x86\Debug\WhoAmIClient.pdb

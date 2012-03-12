@@ -1,0 +1,64 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D9B01A2A-1F3B-4006-BAC9-D7433D4AF4C6/f:SampleRequestValidator.cs" caret="930" fromTop="24" />
+      <File id="D9B01A2A-1F3B-4006-BAC9-D7433D4AF4C6/d:Views/d:Shared/f:_Layout.cshtml" caret="0" fromTop="0" />
+      <File id="D9B01A2A-1F3B-4006-BAC9-D7433D4AF4C6/d:Views/d:Shared/f:_LogOnPartial.cshtml" caret="63" fromTop="1" />
+      <File id="D9B01A2A-1F3B-4006-BAC9-D7433D4AF4C6/f:Web.config" caret="1164" fromTop="0" />
+      <File id="D9B01A2A-1F3B-4006-BAC9-D7433D4AF4C6/d:Controllers/f:HomeController.cs" caret="437" fromTop="19" />
+      <File id="D9B01A2A-1F3B-4006-BAC9-D7433D4AF4C6/d:Views/d:Account/f:ChangePassword.cshtml" caret="0" fromTop="0" />
+      <File id="D9B01A2A-1F3B-4006-BAC9-D7433D4AF4C6/d:Views/d:Account/f:ChangePasswordSuccess.cshtml" caret="0" fromTop="0" />
+      <File id="D9B01A2A-1F3B-4006-BAC9-D7433D4AF4C6/d:Views/d:Account/f:Register.cshtml" caret="0" fromTop="0" />
+      <File id="D9B01A2A-1F3B-4006-BAC9-D7433D4AF4C6/d:Views/d:Account/f:LogOn.cshtml" caret="544" fromTop="9" />
+      <File id="D9B01A2A-1F3B-4006-BAC9-D7433D4AF4C6/d:Controllers/f:AccountController.cs" caret="2657" fromTop="78" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D9B01A2A-1F3B-4006-BAC9-D7433D4AF4C6/f:Web.config" caret="1112" fromTop="19" />
+      <File id="D9B01A2A-1F3B-4006-BAC9-D7433D4AF4C6/f:Web.config" caret="2378" fromTop="11" />
+      <File id="D9B01A2A-1F3B-4006-BAC9-D7433D4AF4C6/f:Web.config" caret="3140" fromTop="14" />
+      <File id="D9B01A2A-1F3B-4006-BAC9-D7433D4AF4C6/f:Web.config" caret="3533" fromTop="20" />
+      <File id="D9B01A2A-1F3B-4006-BAC9-D7433D4AF4C6/d:Controllers/f:AccountController.cs" caret="2041" fromTop="29" />
+      <File id="D9B01A2A-1F3B-4006-BAC9-D7433D4AF4C6/d:Controllers/f:AccountController.cs" caret="1024" fromTop="19" />
+      <File id="D9B01A2A-1F3B-4006-BAC9-D7433D4AF4C6/d:Controllers/f:AccountController.cs" caret="658" fromTop="13" />
+      <File id="D9B01A2A-1F3B-4006-BAC9-D7433D4AF4C6/f:Web.config" caret="1383" fromTop="27" />
+      <File id="D9B01A2A-1F3B-4006-BAC9-D7433D4AF4C6/d:Views/d:Shared/f:_LogOnPartial.cshtml" caret="63" fromTop="1" />
+      <File id="D9B01A2A-1F3B-4006-BAC9-D7433D4AF4C6/d:Controllers/f:AccountController.cs" caret="2150" fromTop="2" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@Microsoft.IdentityModel.Web.FederatedAuthentication">
+      <Item value="WSFederationAuthenticationModule" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.IdentityModel.Web.WSFederationAuthenticationModule">
+      <Item value="CreateSignInRequest`0" priority="0" />
+      <Item value="SignOut`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="returnUrl" priority="1" />
+      <Item value="false" priority="1" />
+      <Item value="Redirect`0" priority="0" />
+      <Item value="signin" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.IdentityModel.Protocols.WSFederation.SignInRequestMessage">
+      <Item value="WriteQueryString`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

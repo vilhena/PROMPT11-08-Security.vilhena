@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="EA7EF1BE-C144-49B1-9C6F-3B187DE6D34F" ModuleId="GoogleTasksService" />
+  <Module PersistentId="A243A93E-282F-444E-8AE6-AF84CDC2A57C" ModuleId="ConsoleGoogleApplication" />
+</Modules>

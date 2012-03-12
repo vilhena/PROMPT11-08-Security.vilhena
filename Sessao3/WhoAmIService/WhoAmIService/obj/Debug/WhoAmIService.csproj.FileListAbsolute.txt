@@ -1,0 +1,10 @@
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmI\WhoAmI\bin\WhoAmI.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmI\WhoAmI\bin\WhoAmI.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmI\WhoAmI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmI\WhoAmI\obj\Debug\WhoAmI.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmI\WhoAmI\obj\Debug\WhoAmI.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmIService\WhoAmIService\bin\WhoAmI.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmIService\WhoAmIService\bin\WhoAmI.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmIService\WhoAmIService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmIService\WhoAmIService\obj\Debug\WhoAmI.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmIService\WhoAmIService\obj\Debug\WhoAmI.pdb

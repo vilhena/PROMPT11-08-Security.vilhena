@@ -1,0 +1,7 @@
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Sessao1\FileHashCalculator\ProtectFiles\bin\Debug\ProtectFiles.exe.config
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Sessao1\FileHashCalculator\ProtectFiles\bin\Debug\EULA.doc
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Sessao1\FileHashCalculator\ProtectFiles\bin\Debug\ProtectFiles.exe
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Sessao1\FileHashCalculator\ProtectFiles\bin\Debug\ProtectFiles.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Sessao1\FileHashCalculator\ProtectFiles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Sessao1\FileHashCalculator\ProtectFiles\obj\x86\Debug\ProtectFiles.exe
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Sessao1\FileHashCalculator\ProtectFiles\obj\x86\Debug\ProtectFiles.pdb

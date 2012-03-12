@@ -1,0 +1,65 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="4076F4BC-EDB7-4485-808F-AD077F073DD2/d:FederationMetadata/d:2007-06/f:FederationMetadata.xml" caret="0" fromTop="0" />
+      <File id="4076F4BC-EDB7-4485-808F-AD077F073DD2/d:Controllers/f:HomeController.cs" caret="602" fromTop="6" />
+      <File id="4076F4BC-EDB7-4485-808F-AD077F073DD2/f:Global.asax.cs" caret="446" fromTop="3" />
+      <File id="4076F4BC-EDB7-4485-808F-AD077F073DD2/f:Web.config" caret="3989" fromTop="23" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="4076F4BC-EDB7-4485-808F-AD077F073DD2/f:Web.config" caret="687" fromTop="17" />
+      <File id="4076F4BC-EDB7-4485-808F-AD077F073DD2/f:Web.config" caret="3409" fromTop="22" />
+      <File id="4076F4BC-EDB7-4485-808F-AD077F073DD2/f:Web.config" caret="4197" fromTop="20" />
+      <File id="4076F4BC-EDB7-4485-808F-AD077F073DD2/d:Controllers/f:HomeController.cs" caret="990" fromTop="29" />
+      <File id="4076F4BC-EDB7-4485-808F-AD077F073DD2/d:Controllers/f:HomeController.cs" caret="850" fromTop="21" />
+      <File id="4076F4BC-EDB7-4485-808F-AD077F073DD2/d:Controllers/f:HomeController.cs" caret="506" fromTop="7" />
+      <File id="4076F4BC-EDB7-4485-808F-AD077F073DD2/f:Web.config" caret="3950" fromTop="13" />
+      <File id="4076F4BC-EDB7-4485-808F-AD077F073DD2/f:Web.config" caret="5372" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="var" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="emailClaim" priority="1" />
+      <Item value="sb" priority="4" />
+      <Item value="c" priority="2" />
+      <Item value="foreach" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.IdentityModel.Claims.ClaimCollection">
+      <Item value="AsParallel`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.ParallelQuery`1">
+      <Item value="ForAll`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="7" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.IdentityModel.Claims.Claim">
+      <Item value="ValueType" priority="0" />
+      <Item value="Value" priority="0" />
+      <Item value="ClaimType" priority="0" />
+      <Item value="Issuer" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

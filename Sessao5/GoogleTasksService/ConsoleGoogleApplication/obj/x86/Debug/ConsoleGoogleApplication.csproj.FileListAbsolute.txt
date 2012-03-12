@@ -1,0 +1,8 @@
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\ConsoleGoogleApplication\bin\Debug\ConsoleGoogleApplication.exe
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\ConsoleGoogleApplication\bin\Debug\ConsoleGoogleApplication.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\ConsoleGoogleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\ConsoleGoogleApplication\obj\x86\Debug\ConsoleGoogleApplication.exe
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\ConsoleGoogleApplication\obj\x86\Debug\ConsoleGoogleApplication.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\ConsoleGoogleApplication\bin\Debug\ConsoleGoogleApplication.exe.config
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\ConsoleGoogleApplication\bin\Debug\System.Net.Http.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\ConsoleGoogleApplication\bin\Debug\System.Net.Http.xml

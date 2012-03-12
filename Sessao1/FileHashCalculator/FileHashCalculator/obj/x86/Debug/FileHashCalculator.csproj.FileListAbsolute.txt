@@ -1,0 +1,11 @@
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\FileHashCalculator\FileHashCalculator\bin\Debug\FileHashCalculator.exe
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\FileHashCalculator\FileHashCalculator\bin\Debug\FileHashCalculator.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\FileHashCalculator\FileHashCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\FileHashCalculator\FileHashCalculator\obj\x86\Debug\FileHashCalculator.exe
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\FileHashCalculator\FileHashCalculator\obj\x86\Debug\FileHashCalculator.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Sessao1\FileHashCalculator\FileHashCalculator\obj\x86\Debug\FileHashCalculator.exe
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Sessao1\FileHashCalculator\FileHashCalculator\obj\x86\Debug\FileHashCalculator.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Sessao1\FileHashCalculator\FileHashCalculator\bin\Debug\FileHashCalculator.exe
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Sessao1\FileHashCalculator\FileHashCalculator\bin\Debug\FileHashCalculator.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Sessao1\FileHashCalculator\FileHashCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Sessao1\FileHashCalculator\FileHashCalculator\bin\Debug\EULA.doc

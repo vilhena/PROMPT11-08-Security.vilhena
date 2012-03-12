@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="22A91E6E-533A-45FE-97D6-3732C5CD29C0" ModuleId="FileHashCalculator" />
+  <Module PersistentId="DC935F35-4206-426F-9243-47AA3802CD11" ModuleId="ProtectFiles" />
+  <Module PersistentId="3A2E79F0-FFCA-4DF3-9BBB-7E089C34CD3C" ModuleId="ViewWordCertificate" />
+</Modules>

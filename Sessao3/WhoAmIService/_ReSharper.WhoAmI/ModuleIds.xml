@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="49591E4A-3B69-4EDD-A33D-CF8F13054401" ModuleId="WhoAmI" />
+  <Module PersistentId="516BE8BC-3495-49BA-962B-DF0011DDE738" ModuleId="WhoAmIClient" />
+  <Module PersistentId="B5028A99-11FF-478D-8CEE-7149D47C5609" ModuleId="IdPWhoAmI" />
+</Modules>

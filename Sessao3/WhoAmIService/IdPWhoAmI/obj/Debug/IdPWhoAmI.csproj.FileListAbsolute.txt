@@ -1,0 +1,7 @@
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmIService\IdPWhoAmI\bin\IdPWhoAmI.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmIService\IdPWhoAmI\bin\IdPWhoAmI.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmIService\IdPWhoAmI\bin\EntityFramework.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmIService\IdPWhoAmI\bin\EntityFramework.xml
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmIService\IdPWhoAmI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmIService\IdPWhoAmI\obj\Debug\IdPWhoAmI.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula3\WhoAmIService\IdPWhoAmI\obj\Debug\IdPWhoAmI.pdb

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="cd738eb6-e625-455f-806b-61577825bcef" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://soap.prompt11.local/WhoAmI.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="WhoAmI.xsd" MetadataType="Schema" ID="d9797b35-e42c-4670-be63-9af9942037fb" SourceId="1" SourceUrl="http://soap.prompt11.local/WhoAmI.svc?xsd=xsd1" />
+    <MetadataFile FileName="WhoAmI.wsdl" MetadataType="Wsdl" ID="bdb72ea6-fd5a-4ced-abea-0a179befdd4f" SourceId="1" SourceUrl="http://soap.prompt11.local/WhoAmI.svc?wsdl" />
+    <MetadataFile FileName="WhoAmI1.xsd" MetadataType="Schema" ID="73f3e2e0-1d57-46da-b913-75c845df8b70" SourceId="1" SourceUrl="http://soap.prompt11.local/WhoAmI.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
