@@ -30,7 +30,7 @@ namespace IdPWhoAmI.Controllers
             
              // Get the incoming IClaimsIdentity from IPrincipal 
             var callerIdentity = (FormsIdentity) User.Identity;
-            List<IdPClaims> idPClaimses = new List<IdPClaims>();
+            var idPClaimses = new List<IdPClaims>();
 
             var req = WSFederationMessage.CreateFromUri(Request.Url);
             var resp = FederatedPassiveSecurityTokenServiceOperations.ProcessSignInRequest(

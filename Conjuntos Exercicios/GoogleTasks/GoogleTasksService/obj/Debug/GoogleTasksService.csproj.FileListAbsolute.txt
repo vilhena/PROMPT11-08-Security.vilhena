@@ -1,0 +1,23 @@
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\GoogleTasksService\bin\GoogleTasksService.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\GoogleTasksService\bin\GoogleTasksService.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\GoogleTasksService\bin\EntityFramework.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\GoogleTasksService\bin\EntityFramework.xml
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\GoogleTasksService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\GoogleTasksService\obj\Debug\GoogleTasksService.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\GoogleTasksService\obj\Debug\GoogleTasksService.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\GoogleTasksService\bin\Microsoft.Json.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\GoogleTasksService\bin\Microsoft.Net.Http.Formatting.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\GoogleTasksService\bin\Microsoft.Server.Common.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\GoogleTasksService\bin\System.Net.Http.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\GoogleTasksService\bin\Microsoft.Json.xml
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\GoogleTasksService\bin\Microsoft.Net.Http.Formatting.xml
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Aula4\GoogleTasksService\GoogleTasksService\bin\System.Net.Http.xml
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Conjuntos Exercicios\GoogleTasks\GoogleTasksService\bin\GoogleTasksService.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Conjuntos Exercicios\GoogleTasks\GoogleTasksService\bin\GoogleTasksService.pdb
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Conjuntos Exercicios\GoogleTasks\GoogleTasksService\bin\EntityFramework.xml
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Conjuntos Exercicios\GoogleTasks\GoogleTasksService\bin\Microsoft.Json.xml
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Conjuntos Exercicios\GoogleTasks\GoogleTasksService\bin\Microsoft.Net.Http.Formatting.xml
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Conjuntos Exercicios\GoogleTasks\GoogleTasksService\bin\System.Net.Http.xml
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Conjuntos Exercicios\GoogleTasks\GoogleTasksService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Conjuntos Exercicios\GoogleTasks\GoogleTasksService\obj\Debug\GoogleTasksService.dll
+C:\Users\gnvilhena\PROMPT\uc03\repos\PROMPT11-08-Security.vilhena\Conjuntos Exercicios\GoogleTasks\GoogleTasksService\obj\Debug\GoogleTasksService.pdb

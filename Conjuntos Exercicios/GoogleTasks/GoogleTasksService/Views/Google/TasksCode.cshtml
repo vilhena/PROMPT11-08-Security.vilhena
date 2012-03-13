@@ -1,0 +1,28 @@
+﻿@model IEnumerable<GoogleTasksService.Models.GTask>
+
+@{
+    ViewBag.Title = "TasksCode";
+}
+
+<h2>TasksCode</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            TaskName
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TaskName)
+        </td>
+    </tr>
+}
+
+</table>
